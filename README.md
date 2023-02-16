@@ -1,6 +1,6 @@
 # NFT MARKET PLACE (FULL STACK)
 
-Depolyed Link (Vercel) - 
+Depolyed Link (Vercel) - https://nft-marketplace-next-js-frontend.vercel.app/
 
 ## Tech Stack
 ### Blockchain layer:
